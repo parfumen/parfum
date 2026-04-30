@@ -1,5 +1,5 @@
-<br clear="both">
-
-<img align="right" height="200" src="https://kommodo.ai/i/kkK6lFcrTV9sebDTbpad"  />
+<div align="center">
+  <img height="200" src="https://img.sanishtech.com/u/e35315d0c0725dc76b8bee16f2d3f3f5.png"  />
+</div>
 
 ###
